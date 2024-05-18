@@ -1,1 +1,1 @@
-# CACA-C-terminal-ATG8-cleavage-assay
+# CACA (C-terminal ATG8 cleavage assay)
